@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="Object File">
+
+</language>
+<language name="C Source File">
+<includepath>${ProjDirPath}/board</includepath>
+<includepath>${ProjDirPath}/component/uart</includepath>
+<includepath>${ProjDirPath}/device</includepath>
+<includepath>${ProjDirPath}/drivers</includepath>
+<includepath>${ProjDirPath}/startup</includepath>
+<includepath>${ProjDirPath}/utilities</includepath>
+<includepath>${ProjDirPath}/common</includepath>
+<includepath>${ProjDirPath}/freemaster</includepath>
+<includepath>${ProjDirPath}/freemaster/drivers</includepath>
+<includepath>${ProjDirPath}/freemaster/platforms</includepath>
+<includepath>${ProjDirPath}/source</includepath>
+<includepath>${ProjDirPath}/source/Controller</includepath>
+<includepath>${ProjDirPath}/source/StateMachine</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/AMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GDFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/MLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/PCLIB/Include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/runtime_56800E/include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/msl/MSL_C/MSL_Common/Include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/msl/MSL_C/DSP_56800E/prefix</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath>${ProjDirPath}/board</includepath>
+<includepath>${ProjDirPath}/component/uart</includepath>
+<includepath>${ProjDirPath}/device</includepath>
+<includepath>${ProjDirPath}/drivers</includepath>
+<includepath>${ProjDirPath}/startup</includepath>
+<includepath>${ProjDirPath}/utilities</includepath>
+<includepath>${ProjDirPath}/common</includepath>
+<includepath>${ProjDirPath}/freemaster</includepath>
+<includepath>${ProjDirPath}/freemaster/drivers</includepath>
+<includepath>${ProjDirPath}/freemaster/platforms</includepath>
+<includepath>${ProjDirPath}/source</includepath>
+<includepath>${ProjDirPath}/source/Controller</includepath>
+<includepath>${ProjDirPath}/source/StateMachine</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/AMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GDFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/MLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/PCLIB/Include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/runtime_56800E/include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/msl/MSL_C/MSL_Common/Include</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support/msl/MSL_C/DSP_56800E/prefix</includepath>
+<includepath>${MCUToolsBaseDir}/M56800E Support</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath>${ProjDirPath}/common</includepath>
+<includepath>${ProjDirPath}/freemaster</includepath>
+<includepath>${ProjDirPath}/freemaster/drivers</includepath>
+<includepath>${ProjDirPath}/freemaster/platforms</includepath>
+<includepath>${ProjDirPath}/source</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/AMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GDFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GFLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/GMCLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/MLIB/Include</includepath>
+<includepath>${ProjDirPath}/DSPDSC56800EX_RTCESL_4.5.1/PCLIB/Include</includepath>
+<includepath>${ProjDirPath}/source/Controller</includepath>
+<includepath>${ProjDirPath}/source/StateMachine</includepath>
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="Object File">
+
+</language>
+<language name="C Source File">
+<macro>
+<name>NDEBUG</name><value/>
+</macro>
+<macro>
+<name>__LDM__</name><value/>
+</macro>
+<macro>
+<name>__LPM__</name><value/>
+</macro>
+<macro>
+<name>PRINTF_ADVANCED_ENABLE</name><value>1</value>
+</macro>
+<macro>
+<name>CPU_MC56F83789VLL</name><value/>
+</macro>
+<macro>
+<name>__DSC__</name><value/>
+</macro>
+<macro>
+<name>__CW__</name><value/>
+</macro>
+<macro>
+<name>MCUXPRESSO_SDK</name><value/>
+</macro>
+
+</language>
+<language name="C++ Source File">
+<macro>
+<name>NDEBUG</name><value/>
+</macro>
+<macro>
+<name>__LDM__</name><value/>
+</macro>
+<macro>
+<name>__LPM__</name><value/>
+</macro>
+<macro>
+<name>PRINTF_ADVANCED_ENABLE</name><value>1</value>
+</macro>
+<macro>
+<name>CPU_MC56F83789VLL</name><value/>
+</macro>
+<macro>
+<name>__DSC__</name><value/>
+</macro>
+<macro>
+<name>__CW__</name><value/>
+</macro>
+<macro>
+<name>MCUXPRESSO_SDK</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
